@@ -1,0 +1,17 @@
+[run]
+branch = true
+parallel = true
+source =
+  _stories_django
+  stories_django
+  configuration
+  django_project
+  examples
+  helpers
+  mddoctest
+  tests
+
+[paths]
+source =
+  src
+  .tox/*/site-packages
