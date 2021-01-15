@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/proofit404/python-library-template",
+  "commit": "4b9d3932b778f1a36135084bcb05af3eca87069e",
+  "context": {
+    "cookiecutter": {
+      "project_name": "stories-django",
+      "public_module_name": "stories_django",
+      "private_module_name": "_stories_django",
+      "exception_name": "StoryDjangoError",
+      "project_version": "0.2.0dev0",
+      "project_description": "Stories library integration with Django framework.",
+      "author_name": "Artem Malyshev",
+      "author_email": "proofit404@gmail.com",
+      "github_user": "proofit404",
+      "github_repository": "https://github.com/proofit404/stories-django",
+      "issues_url": "https://github.com/proofit404/stories-django/issues",
+      "documentation_url": "https://proofit404.github.io/stories-django",
+      "changelog_url": "https://proofit404.github.io/stories-django/changelog",
+      "pypi_project": "https://pypi.org/project/stories-django",
+      "azure_definition_id": "9",
+      "_template": "https://github.com/proofit404/python-library-template"
+    }
+  },
+  "directory": null
+}
